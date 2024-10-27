@@ -31,8 +31,7 @@ A simple **Pomodoro Timer** Android app that helps improve relaxation by using t
 (https://github.com/user-attachments/assets/18da455e-3a22-4b42-b8d3-dd6ccc64ca08)
 
 ## How to use
-1. Download and Open
-First, clone the project from GitHub:
+1.First, clone the project from GitHub:
 git clone https://github.com/DevanshuDubey/PomodoroTimer/tree/master
 
 Open the project in Android Studio.
