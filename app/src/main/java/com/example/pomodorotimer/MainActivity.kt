@@ -10,13 +10,13 @@ import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
-    var pomodoroTimeInMillis: Long = 300000  // 25 min
-    var restTimeInMillis: Long = 1500000 //5 min
+    var pomodoroTimeInMillis: Long = 1500000  //5 min
+    var restTimeInMillis: Long = 300000 //25 min
     var timeLeftInMillis: Long = pomodoroTimeInMillis
     var timerRunning = false
     var isPomodoro = true //Pomodoro or rest
 
-    var countDownTimer: CountDownTimer? = null // Nullable to avoid lateinit
+    var countDownTimer: CountDownTimer? = null
     var mediaPlayer: MediaPlayer? = null // MediaPlayer for playing sound
 
     override fun onCreate(savedInstanceState: Bundle?) {
