@@ -16,8 +16,8 @@ A simple **Pomodoro Timer** Android app that helps improve 𝗉̶𝗋̶𝗈̶�
 
 ## Features
 
-- 25-minute work timer.
-- 5-minute rest timer.
+- 25-minute rest timer.
+- 5-minute work timer.
 - Start, pause, and reset functionality.
 - Simple UI for easy use.
 - Sound alert at the end of each period (work or rest).
