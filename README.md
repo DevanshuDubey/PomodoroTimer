@@ -22,6 +22,7 @@ A simple **Pomodoro Timer** Android app that helps improve 𝗉̶𝗋̶𝗈̶�
 - Simple UI for easy use.
 - Sound alert at the end of each period (work or rest).
 - Customizable timer duration.
+- No distraction UI with only required functionalities.
 
 ## Screenshots
 
