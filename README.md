@@ -33,13 +33,12 @@ A simple **Pomodoro Timer** Android app that helps improve relaxation by using t
 ## How to use
 1.First, clone the project from GitHub:
 git clone https://github.com/DevanshuDubey/PomodoroTimer/tree/master
-
 Open the project in Android Studio.
-2. Run the App-->
+
+2.Run the App-->
 Connect your phone to your computer or set up an emulator in Android Studio.
 Click the Run button.
 Choose your phone or emulator to run the app on.
-
 
 3. Build the APK
 If you want to share the app with friends or try it on another phone, build the APK:
