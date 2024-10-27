@@ -6,7 +6,7 @@ Description: A productivity tool that uses the Pomodoro Technique, where users w
 in short bursts (25-minute sessions) with breaks in between. This app helps students
 focus by dividing study time into manageable chunks. It can also offer a progress
 tracker for total study hours.
-● Set study intervals (e.g., 25 minutes of work, 5 minutes of rest).
+● Set study intervals (e.g., 5 minutes of work, 25 minutes of rest).
 ● Customizable timer durations.
 ● Sound notifications for breaks and work periods.
 
