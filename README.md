@@ -31,6 +31,22 @@ A simple **Pomodoro Timer** Android app that helps improve 𝗉̶𝗋̶𝗈̶�
 
 (https://github.com/user-attachments/assets/18da455e-3a22-4b42-b8d3-dd6ccc64ca08)
 
+## How to use
+
+How to Use
+1. Download and Open
+First, clone the project from GitHub:
+git clone https://github.com/DevanshuDubey/PomodoroTimer/tree/master
+
+Open the project in Android Studio.
+2. Run the App
+Connect your phone to your computer or set up an emulator in Android Studio.
+Click the Run button (it’s the green triangle at the top).
+Choose your phone or emulator to run the app on.
+4. Build the APK
+If you want to share the app with friends or try it on another phone, build the APK:
+Go to Build > Build Bundle(s) / APK(s) > Build APK(s).
+Android Studio will show you a link to the APK file when it's done.
 
 
 
