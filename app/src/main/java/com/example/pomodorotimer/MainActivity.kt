@@ -10,8 +10,8 @@ import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
-    var pomodoroTimeInMillis: Long = 1500000  //5 min
-    var restTimeInMillis: Long = 300000 //25 min
+    var pomodoroTimeInMillis: Long = 300000  //5 min
+    var restTimeInMillis: Long = 1500000 //25 min
     var timeLeftInMillis: Long = pomodoroTimeInMillis
     var timerRunning = false
     var isPomodoro = true //Pomodoro or rest
